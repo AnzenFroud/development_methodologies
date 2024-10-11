@@ -1,5 +1,5 @@
 ## Демонстрация работы
-[![asciicast](https://asciinema.org/a/SGDbv6fUnqyjI4rvrUlyc2cP5.svg)](https://asciinema.org/a/SGDbv6fUnqyjI4rvrUlyc2cP5)
+[![asciicast](https://asciinema.org/a/5XMLyvxozaWMoqE04lEOuiM3h.svg)](https://asciinema.org/a/5XMLyvxozaWMoqE04lEOuiM3h)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/0dccc2590b25d76abb77/maintainability)](https://codeclimate.com/github/AnzenFroud/development_methodologies/maintainability)
 
